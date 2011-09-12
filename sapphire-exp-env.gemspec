@@ -20,11 +20,13 @@ Gem::Specification.new do |s|
     ".document",
     ".rspec",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
     "lib/sapphire-exp-env.rb",
+    "sapphire-exp-env.gemspec",
     "spec/sapphire-exp-env_spec.rb",
     "spec/spec_helper.rb"
   ]

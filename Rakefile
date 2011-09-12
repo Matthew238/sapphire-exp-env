@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "sapphire-exp-env"
   gem.homepage = "http://github.com/Matthew238/sapphire-exp-env"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{An experiment environment for the prototype development of the programing language Sapphire.}
+  gem.description = %Q{An experiment environment for the prototype development of the programing language Sapphire.}
   gem.email = "matthew.szulik@gmail.com"
   gem.authors = ["Ken ichi AKIMOTO"]
   # dependencies defined in Gemfile

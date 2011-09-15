@@ -1,6 +1,6 @@
 = sapphire-exp-env
 
-Description goes here.
+An experiment environment for the prototype development of the programing language Sapphire.
 
 == Contributing to sapphire-exp-env
  

@@ -11,4 +11,5 @@ group :development do
   gem "jeweler", "~> 1.6.4"
   gem "rcov", ">= 0"
   gem "iseq", ">= 0.0.3.2"
+  gem "thor", ">= 0.14.6"
 end
